@@ -1,0 +1,208 @@
+body{
+    padding-right: 330px;
+}
+hr{
+    border: 2px solid black;
+}
+p{
+    font-family: next;
+    font-weight: 1000;
+    font-size: 200px;
+}
+#top{
+    margin-top: 210px;
+    margin-left: 170px;
+    margin-right: 50px;
+}
+pre{
+    font-size: 25px;
+}
+.iconify{
+    font-size: 25px;
+}
+#companies{
+    border: 2px solid #cccccc;
+    border-radius: 50px;
+    font-size: 18px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 25px;
+    background-color: #cccccc;
+}
+#companies:hover{
+    
+}
+#sectors{
+    color: lightgrey;
+    margin-right: 15px;
+    
+}
+#sectors:hover{
+    color: black;
+}
+#cards{
+    margin-left: 170px;
+    margin-top: 100px;
+
+}
+
+.card mb-5{
+    border:black;
+}
+
+
+#acko{
+    width: auto;
+    max-width: 50%;
+    max-height: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}
+#autoninja{
+    width: auto;
+    max-width: 50%;
+    max-height: 25%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#aye{
+    width: auto;
+    max-width: 50%;
+    max-height: 18%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#bobble{
+    width: auto;
+    max-width: 50%;
+    max-height: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#bookmyshow{
+    width: auto;
+    max-width: 50%;
+    max-height: 35%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#cfbw{
+    width: auto;
+    max-width: 50%;
+    max-height: 20%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#care24{
+    width: auto;
+    max-width: 50%;
+    max-height: 18%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#chaayos{
+    width: auto;
+    max-width: 50%;
+    max-height: 18%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#cleartax{
+    width: auto;
+    max-width: 60%;
+    max-height: 12%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#coverfox{
+    width: auto;
+    max-width: 60%;
+    max-height: 15%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#crowdanalytix{
+    width: auto;
+    max-width: 60%;
+    max-height: 12%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#css{
+    width: auto;
+    max-width: 50%;
+    max-height: 20%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#dt{
+    width: auto;
+    max-width: 60%;
+    max-height: 12%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#faballey{
+    width: auto;
+    max-width: 50%;
+    max-height: 25%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+}#fareye{
+    width: auto;
+    max-width: 50%;
+    max-height: 18%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+    transition-duration: 0.3s;
+    
+}
+
+
